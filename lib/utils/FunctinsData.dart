@@ -68,7 +68,7 @@ class AppFunction {
     'Fees',
     'Sale Receipt',
     'Routine',
-    'Homework',
+    // 'Homework',
     // 'Timeline',
     'Attendance',
     // 'Examination',
